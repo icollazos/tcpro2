@@ -165,20 +165,10 @@ if($_POST){
 							<div class="card mb-3">
 								<div class="card-body">
 									<h5 class="text-center" style="font-size: 100%;"><strong>Enlaces</strong></h5>
-									<a class="btn btn-primary" href="https://igorcollazos.alwaysdata.net/tcpro/gen_login.php?x=bancoCentralChile">BCCH</a>
-									<a class="btn btn-primary" href="https://igorcollazos.alwaysdata.net/tcpro/gen_login.php?x=presidenciaArgentina">ARG</a>
+									<a class="btn btn-primary" href="gen_login.php?x=bancoCentralChile">BCCH</a>
+									<a class="btn btn-primary" href="gen_login.php?x=presidenciaArgentina">ARG</a>
 								</div>
 							</div>
-							<!--
-							<div class="card mb-3">
-								<div class="card-body">
-									<div class="text-center">
-										<p class="text-center" style="font-size: 100%;"><strong>Desarrollado por Igor Collazos</strong></p>
-										<p class="text-center" style="font-size: 100%;"><strong>Todos los derechos reservados</strong></p>
-									</div>
-								</div>
-							</div>
-						-->
 					</div>
 				</div>
 			</div>
